@@ -519,7 +519,7 @@ For other environments, [CLI] is available to generate IDs from a command line.
 
 ## Tools
 
-* [ID size calculator] shows collision probability when adjusting
+
   the ID alphabet or size.
 * [`nanoid-dictionary`] with popular alphabets to use with [`customAlphabet`].
 * [`nanoid-good`] to be sure that your ID doesn’t contain any obscene words.
