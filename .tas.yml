@@ -9,8 +9,8 @@ preMerge:
     - "./bin/nanoid.test.js"
 preRun:
      command:
-        - npm install
+        - yarn install
 postRun:
      command:
-        - npm --version
+        - yarn --version
 version: 2.0
